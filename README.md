@@ -7,6 +7,7 @@ Responsive landing page
 
 Beautiful fruit(apple)landing page with HTML/CSS.In this we are going to learn and build how to create a landing pageith bootstrap using HTML/CSS.
 just open land.html and lands.css in the browser.
+
 Basic mini calculator
 
 A basic mini calculator is developed using pure and modern HTML,CSS,JS
